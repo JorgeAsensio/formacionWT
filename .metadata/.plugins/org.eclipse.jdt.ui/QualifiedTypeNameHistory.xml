@@ -5,10 +5,22 @@
     <fullyQualifiedTypeName name="com.flota.dominio.Caja"/>
     <fullyQualifiedTypeName name="com.flota.dominio.Vehiculo"/>
     <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
     <fullyQualifiedTypeName name="com.curso.varios.Alumno"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="com.miBanco.domain.Cliente"/>
     <fullyQualifiedTypeName name="com.miBanco.domain.Cuenta"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="com.curso.modulo4.Producto"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="com.curso.modulo4.Pedido"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.maquinaExpendedora.domain.MaquinaExpendedora"/>
+    <fullyQualifiedTypeName name="javax.swing.event.ListDataEvent"/>
+    <fullyQualifiedTypeName name="com.maquinaExpendedora.domain.Refresco"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.maquinaExpendedora.domain.pruebaMaquinaExpendedora"/>
 </qualifiedTypeNameHistroy>

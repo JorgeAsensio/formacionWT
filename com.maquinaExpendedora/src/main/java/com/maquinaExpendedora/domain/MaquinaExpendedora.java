@@ -26,17 +26,6 @@ public class MaquinaExpendedora {
 		this.refrescosVendidos = refrescosVendidos;
 	}
 
-	public void reponerRefresco(Refresco r) {
-
-	}
-
-	public void venderRefresco() {
-		
-	}
-
-	public void mostrarInforme() {
-		
-	}
 
 	public List<Refresco> getRefrescos() {
 		return refrescos;
@@ -53,4 +42,13 @@ public class MaquinaExpendedora {
 	public void setDineroTotal(double dineroTotal) {
 		this.dineroTotal = dineroTotal;
 	}
+	
+	public void reponerRefresco(Refresco r) {
+
+	}
+
+	public void mostrarInforme() {
+		
+	}
+	
 }
