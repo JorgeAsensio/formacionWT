@@ -81,6 +81,7 @@ public class pruebaMaquinaExpendedora {
 		System.out.println("Pulse 1 para Comprar Refresco");
 		System.out.println("Pulse 2 para Mostrar informe de ventas");
 		System.out.println("Pulse 3 para Reponer Refrescos");
+		System.out.println("Pulse 0 para SALIR");
 		int opcion = scan.nextInt();
 		return opcion;
 	}
