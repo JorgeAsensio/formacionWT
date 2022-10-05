@@ -1,0 +1,15 @@
+package com.miBanco.domain;
+
+public class main {
+
+	public static void main(String[] args) {
+		Cliente c = new Cliente("Jorge", "Asensio");
+		System.out.println("Creando al cliente "+ c.getNombre() +" "+ c.getApellido());
+		Cuenta cuenta= new Cuenta(500);
+		System.out.println("Creando su cuenta con saldo: " + cuenta.getBalance() );
+		System.out.println("Ingresar 22.50: "+ cuenta.depositar(22.50));
+		System.out.println("Retira 400.00: " + cuenta.retirar(400));
+
+	}
+
+}

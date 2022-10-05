@@ -1,0 +1,29 @@
+package com.curso.varios;
+
+public class EjemploVariablesReferenciaHeap {
+	public static void main(String[] args) {
+
+		Alumno a= new Alumno(1);
+		metodo1(a);
+		System.out.println("fin main ");
+	}
+
+	public static void metodo1(Alumno mePuedoLLamarComoQuiera) {
+		Alumno b = mePuedoLLamarComoQuiera;
+		b.setId(33);
+		metodo2();
+//		String s = null;
+//		s= s.toUpperCase();
+		System.out.println("fin metodo1 ");
+	}
+
+	public static void metodo2() {
+
+		
+//		if (c == 3) {
+//			throw new RuntimeException("La has liado");
+//		}
+		
+		System.out.println("fin metodo2 ");
+	}
+}

@@ -1,0 +1,11 @@
+package com.miBanco.domain;
+
+public class main {
+
+	public static void main(String[] args) {
+		Cliente c = new Cliente("Jorge", "Asensio");
+		System.out.println("Creando al cliente "+ c.getNombre() +" "+ c.getApellido());
+
+	}
+
+}

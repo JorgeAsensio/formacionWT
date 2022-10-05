@@ -1,0 +1,21 @@
+package com.curso.varios;
+
+public class Saludador {
+
+	public String saluda(String nombre) {
+		
+		return "hola " + nombre;
+
+	}
+	
+	//sobrecargar el metodo
+	
+	public String saluda() {
+		return "Hola amigo";
+	}
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,21 @@
+package com.miBanco.domain;
+
+public class Cuenta {
+	private double balance;
+
+	public Cuenta(double balance) {
+		super();
+		this.balance = balance;
+	}
+
+	public double getBalance() {
+		return balance;
+	}
+
+	public void depositar() {
+		
+	}
+	public void transferir() {
+		
+	}
+}

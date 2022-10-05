@@ -1,0 +1,19 @@
+package com.flota.dominio;
+
+public class Vehiculo {
+
+	private double cargaMaxima;
+
+	public double getCargaMaxima() {
+		return cargaMaxima;
+	}
+
+	public void setCargaMaxima(double cargaMaxima) {
+
+		if (cargaMaxima < 0) {
+			throw new RuntimeException("No puede puede introducir una carga negativa");
+		}
+		this.cargaMaxima = cargaMaxima;
+	}
+
+}

@@ -1,0 +1,27 @@
+package com.curso.varios;
+
+public class Saludador {
+//	constructor por defecto
+//	public Saludador() {
+//		super();
+//	}
+	private String saludo = "Hola";
+
+	public Saludador(String saludo) {
+
+		this.saludo = saludo;
+	}
+
+	public String saluda(String nombre) {
+
+		return saludo + nombre;
+
+	}
+
+	// sobrecargar el metodo
+
+	public String saluda() {
+		return "Hola amigo";
+	}
+
+}

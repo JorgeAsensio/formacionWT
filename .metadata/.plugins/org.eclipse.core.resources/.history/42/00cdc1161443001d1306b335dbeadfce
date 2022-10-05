@@ -1,0 +1,46 @@
+package com.flota.dominio;
+
+public class Vehiculo {
+
+	private double cargaMaxima;
+	private double cargaActual;
+	private String matricula = "";
+	private int numCajas;
+
+	public double getCargaActual() {
+		return cargaActual;
+	}
+
+	public void setCargaActual(double cargaActual) {
+		this.cargaActual = cargaActual;
+	}
+
+	public double getMatricula() {
+		return matricula;
+	}
+
+	public void setMatricula(double matricula) {
+		this.matricula = matricula;
+	}
+
+	public int getNumCajas() {
+		return numCajas;
+	}
+
+	public void setNumCajas(int numCajas) {
+		this.numCajas = numCajas;
+	}
+
+	public double getCargaMaxima() {
+		return cargaMaxima;
+	}
+
+	public void setCargaMaxima(double cargaMaxima) {
+
+		if (cargaMaxima < 0) {
+			throw new RuntimeException("No puede puede introducir una carga maxima negativa");
+		}
+		this.cargaMaxima = cargaMaxima;
+	}
+
+}

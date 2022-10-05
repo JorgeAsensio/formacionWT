@@ -1,0 +1,15 @@
+package com.flota.dominio;
+
+public class Vehiculo {
+
+	private double cargaMaxima;
+
+	public double getCargaMaxima() {
+		return cargaMaxima;
+	}
+
+	public void setCargaMaxima(double cargaMaxima) {
+		this.cargaMaxima = cargaMaxima;
+	}
+	
+}

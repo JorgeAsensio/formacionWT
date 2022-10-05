@@ -1,0 +1,7 @@
+package com.miBanco.domain;
+
+public class Cliente {
+	private String nombre;
+	private String apellido;
+	private Cuenta cuenta;
+}
