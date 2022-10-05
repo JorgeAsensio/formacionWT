@@ -1026,3 +1026,676 @@
 2022-10-04 14:13:20,677 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-04 14:13:20,677 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.miBanco\src\test\resources
 2022-10-05 09:34:38,690 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-05 10:01:12,129 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 10:01:12,131 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 10:01:12,133 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 10:01:12,133 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 10:01:22,393 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 10:01:22,393 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 10:01:22,396 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 10:01:22,397 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 10:05:12,117 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 10:05:12,117 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 10:05:12,119 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 10:05:12,119 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 10:05:28,646 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 10:05:28,646 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 10:05:28,648 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 10:05:28,648 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 10:53:54,075 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 10:53:54,075 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 10:53:54,077 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 10:53:54,077 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 11:03:36,515 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 11:03:36,516 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 11:03:36,519 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 11:03:36,519 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 11:03:40,269 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 11:03:40,269 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 11:03:40,271 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 11:03:40,271 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 11:06:37,272 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 11:06:37,272 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 11:06:37,275 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 11:06:37,276 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 11:14:44,659 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 11:14:44,659 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 11:14:44,660 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 11:14:44,661 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:06:35,393 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:06:35,393 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:06:35,395 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:06:35,395 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:13:25,469 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:13:25,470 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:13:25,472 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:13:25,472 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:28:24,750 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:28:24,750 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:28:24,752 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:28:24,752 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:30:58,356 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:30:58,356 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:30:58,358 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:30:58,358 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:31:01,792 [Worker-67: Launching pruebaPedido] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:31:01,793 [Worker-67: Launching pruebaPedido] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:31:01,795 [Worker-67: Launching pruebaPedido] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:31:01,795 [Worker-67: Launching pruebaPedido] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:31:57,349 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:31:57,349 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:31:57,351 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:31:57,351 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:32:00,317 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:32:00,317 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:32:00,319 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:32:00,319 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:32:30,940 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:32:30,940 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:32:30,941 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:32:30,941 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:32:39,424 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:32:39,424 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:32:39,426 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:32:39,426 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:40:02,740 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:40:02,740 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:40:02,741 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:40:02,741 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:40:39,033 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:40:39,034 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:40:39,035 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:40:39,035 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:40:43,010 [Worker-75: Launching pruebaPedido] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:40:43,010 [Worker-75: Launching pruebaPedido] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:40:43,011 [Worker-75: Launching pruebaPedido] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:40:43,011 [Worker-75: Launching pruebaPedido] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:43:18,270 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:43:18,270 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:43:18,271 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:43:18,271 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:54:13,878 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:54:13,878 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:54:13,879 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:54:13,879 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:54:27,581 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:54:27,581 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:54:27,582 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:54:27,582 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:56:33,879 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:56:33,879 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:56:33,881 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:56:33,881 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:56:50,143 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:56:50,144 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:56:50,145 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:56:50,146 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:57:06,907 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:57:06,907 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:57:06,908 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:57:06,909 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:57:29,369 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:57:29,369 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:57:29,371 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:57:29,371 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 12:57:36,551 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:57:36,551 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 12:57:36,552 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 12:57:36,553 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:03:21,562 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:03:21,562 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:03:21,563 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:03:21,563 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:04:10,747 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:04:10,747 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:04:10,748 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:04:10,749 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:05:14,898 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:05:14,898 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:05:14,899 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:05:14,899 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:05:30,236 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:05:30,236 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:05:30,237 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:05:30,237 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:08:57,714 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:08:57,715 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:08:57,717 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:08:57,717 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:16:03,485 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:16:03,485 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:16:03,487 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:16:03,487 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:25:12,784 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:25:12,784 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:25:12,785 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:25:12,785 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:25:54,565 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:25:54,565 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:25:54,566 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:25:54,567 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:27:01,497 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:27:01,497 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:27:01,498 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:27:01,498 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:27:33,329 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:27:33,329 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:27:33,330 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:27:33,330 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:27:56,576 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:27:56,576 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:27:56,577 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:27:56,577 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:28:07,257 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:28:07,257 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:28:07,258 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:28:07,259 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:35:29,477 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:35:29,478 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:35:29,479 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:35:29,479 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:37:17,508 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:37:17,508 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:37:17,510 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:37:17,510 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:37:27,596 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:37:27,596 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:37:27,598 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:37:27,598 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:39:00,100 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:39:00,101 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:39:00,102 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:39:00,102 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:39:18,399 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:39:18,399 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:39:18,401 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:39:18,401 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:39:51,376 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:39:51,376 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\main\resources
+2022-10-05 13:39:51,377 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:39:51,377 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\Proyecto001_JavaSE\src\test\resources
+2022-10-05 13:52:22,213 [Worker-105: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.miBanco:com.miBanco:0.0.1-SNAPSHOT @ C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\pom.xml.
+2022-10-05 13:52:22,296 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:52:22,296 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:52:22,298 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:52:22,298 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 13:52:22,516 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:52:22,517 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:52:22,519 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:52:22,519 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 13:52:32,006 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:52:32,006 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:52:32,007 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:52:32,008 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 13:52:33,066 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:52:33,066 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:52:33,068 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:52:33,068 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 13:52:44,928 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:52:44,928 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:52:44,929 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:52:44,930 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 13:54:13,301 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:54:13,301 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:54:13,303 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:54:13,303 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 13:55:16,889 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:55:16,889 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:55:16,890 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:55:16,890 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 13:57:02,200 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:57:02,200 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:57:02,202 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:57:02,202 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 13:58:33,019 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:58:33,019 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:58:33,020 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:58:33,021 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 13:58:52,503 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:58:52,503 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:58:52,505 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:58:52,505 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 13:59:39,819 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:59:39,820 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 13:59:39,822 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 13:59:39,822 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:01:21,001 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:01:21,001 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:01:21,003 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:01:21,003 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:01:24,176 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:01:24,176 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:01:24,178 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:01:24,178 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:04:28,955 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:04:28,955 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:04:28,956 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:04:28,956 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:04:42,366 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:04:42,366 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:04:42,367 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:04:42,368 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:05:03,499 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:05:03,499 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:05:03,501 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:05:03,501 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:08:36,776 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:08:36,776 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:08:36,778 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:08:36,778 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:09:26,818 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:09:26,818 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:09:26,819 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:09:26,819 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:09:44,422 [Worker-111: Launching pruebaMaquinaExpendedora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:09:44,422 [Worker-111: Launching pruebaMaquinaExpendedora] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:09:44,424 [Worker-111: Launching pruebaMaquinaExpendedora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:09:44,424 [Worker-111: Launching pruebaMaquinaExpendedora] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:10:39,648 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:10:39,649 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:10:39,650 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:10:39,650 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:10:58,299 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:10:58,299 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:10:58,300 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:10:58,301 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:11:25,087 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:11:25,087 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:11:25,088 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:11:25,088 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:13:43,272 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:13:43,272 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:13:43,273 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:13:43,273 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:15:24,323 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:15:24,323 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:15:24,324 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:15:24,325 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:16:34,517 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:16:34,517 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:16:34,519 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:16:34,519 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:18:59,216 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:18:59,216 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:18:59,217 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:18:59,217 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:19:30,876 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:19:30,877 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:19:30,878 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:19:30,878 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:19:47,833 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:19:47,833 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:19:47,834 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:19:47,834 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:20:17,648 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:20:17,648 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:20:17,649 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:20:17,650 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:20:54,311 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:20:54,312 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:20:54,313 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:20:54,313 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:21:40,300 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:21:40,300 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:21:40,301 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:21:40,301 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:21:54,706 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:21:54,706 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:21:54,707 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:21:54,707 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:22:20,104 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:22:20,104 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:22:20,105 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:22:20,105 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:22:31,573 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:22:31,574 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:22:31,575 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:22:31,575 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:22:40,486 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:22:40,486 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:22:40,489 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:22:40,489 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:22:54,767 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:22:54,767 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:22:54,769 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:22:54,769 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:23:01,634 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:23:01,634 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:23:01,635 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:23:01,636 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:23:20,812 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:23:20,812 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:23:20,814 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:23:20,814 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:23:38,232 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:23:38,232 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:23:38,234 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:23:38,234 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:25:29,744 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:25:29,744 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:25:29,745 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:25:29,745 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:25:38,245 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:25:38,245 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:25:38,246 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:25:38,246 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:26:01,457 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:26:01,457 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:26:01,458 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:26:01,459 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:26:04,375 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:26:04,375 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:26:04,377 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:26:04,377 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:26:45,923 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:26:45,923 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:26:45,924 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:26:45,924 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:28:03,282 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:28:03,282 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:28:03,283 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:28:03,283 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:28:59,034 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:28:59,034 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:28:59,035 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:28:59,035 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:29:37,253 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:29:37,253 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:29:37,255 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:29:37,255 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:31:00,000 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:31:00,000 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:31:00,002 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:31:00,002 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:32:30,052 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:32:30,053 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:32:30,055 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:32:30,055 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:35:29,057 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:35:29,057 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:35:29,058 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:35:29,059 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:36:38,086 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:36:38,086 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:36:38,087 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:36:38,087 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:36:52,470 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:36:52,470 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:36:52,471 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:36:52,471 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:38:49,022 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:38:49,022 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:38:49,023 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:38:49,023 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:39:06,460 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:39:06,460 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:39:06,461 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:39:06,462 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:39:27,597 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:39:27,597 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:39:27,598 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:39:27,598 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:41:43,751 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:41:43,751 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:41:43,752 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:41:43,752 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:42:44,932 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:42:44,933 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:42:44,934 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:42:44,934 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:43:04,348 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:43:04,348 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:43:04,349 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:43:04,349 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:44:23,753 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:44:23,753 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:44:23,754 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:44:23,754 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:45:08,908 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:45:08,909 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:45:08,909 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:45:08,910 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:45:19,831 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:45:19,832 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:45:19,832 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:45:19,833 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:45:32,142 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:45:32,142 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:45:32,143 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:45:32,143 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:45:51,484 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:45:51,484 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:45:51,485 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:45:51,485 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:46:27,506 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:46:27,506 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:46:27,508 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:46:27,508 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:46:32,272 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:46:32,272 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:46:32,273 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:46:32,273 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:49:06,574 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:49:06,574 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:49:06,575 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:49:06,575 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:50:13,074 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:50:13,074 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:50:13,075 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:50:13,075 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:50:46,799 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:50:46,799 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:50:46,800 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:50:46,800 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:50:56,889 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:50:56,889 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:50:56,890 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:50:56,890 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:51:29,118 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:51:29,118 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:51:29,118 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:51:29,119 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:51:45,804 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:51:45,804 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:51:45,805 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:51:45,805 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:51:55,881 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:51:55,881 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:51:55,882 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:51:55,882 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:53:23,212 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:53:23,212 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:53:23,213 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:53:23,213 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:53:26,723 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:53:26,723 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:53:26,724 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:53:26,724 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:53:37,640 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:53:37,641 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:53:37,641 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:53:37,641 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:53:52,483 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:53:52,484 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:53:52,484 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:53:52,484 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:54:22,823 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:54:22,823 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:54:22,824 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:54:22,824 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:54:43,101 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:54:43,101 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:54:43,102 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:54:43,103 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:57:39,111 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:57:39,111 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:57:39,112 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:57:39,113 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:57:40,732 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:57:40,732 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:57:40,733 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:57:40,733 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:57:47,309 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:57:47,309 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:57:47,310 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:57:47,311 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 14:58:19,518 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:58:19,518 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 14:58:19,519 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 14:58:19,519 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:04:10,240 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:04:10,240 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:04:10,241 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:04:10,241 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:04:41,495 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:04:41,495 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:04:41,496 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:04:41,496 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:06:59,488 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:06:59,488 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:06:59,489 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:06:59,489 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:07:11,991 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:07:11,991 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:07:11,991 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:07:11,992 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:07:44,689 [Worker-115: Launching pruebaMaquinaExpendedora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:07:44,690 [Worker-115: Launching pruebaMaquinaExpendedora] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:07:44,690 [Worker-115: Launching pruebaMaquinaExpendedora] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:07:44,691 [Worker-115: Launching pruebaMaquinaExpendedora] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:08:15,851 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:08:15,851 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:08:15,852 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:08:15,852 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:10:51,042 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:10:51,042 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:10:51,043 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:10:51,043 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:29:25,177 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:29:25,177 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:29:25,178 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:29:25,178 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:29:57,287 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:29:57,287 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:29:57,287 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:29:57,288 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:30:29,397 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:30:29,397 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:30:29,398 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:30:29,398 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:31:23,403 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:31:23,403 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:31:23,404 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:31:23,404 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:41:13,339 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:41:13,339 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:41:13,340 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:41:13,340 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:43:08,843 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:43:08,843 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:43:08,844 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:43:08,844 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:44:24,180 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:44:24,180 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:44:24,181 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:44:24,181 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:44:40,386 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:44:40,387 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:44:40,387 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:44:40,388 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:48:49,420 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:48:49,420 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:48:49,421 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:48:49,421 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:51:01,895 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:51:01,895 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:51:01,896 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:51:01,897 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:51:05,625 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:51:05,625 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:51:05,626 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:51:05,627 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 15:52:06,278 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:52:06,278 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 15:52:06,279 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 15:52:06,279 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:09:51,825 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:09:51,826 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:09:51,826 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:09:51,827 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:11:41,851 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:11:41,851 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:11:41,852 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:11:41,852 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:11:46,778 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:11:46,778 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:11:46,779 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:11:46,779 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:13:06,024 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:13:06,024 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:13:06,025 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:13:06,025 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:13:07,042 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:13:07,043 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:13:07,043 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:13:07,043 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:13:35,435 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:13:35,435 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:13:35,436 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:13:35,436 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:13:50,153 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:13:50,153 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:13:50,154 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:13:50,154 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:14:22,911 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:14:22,911 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:14:22,912 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:14:22,912 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:14:59,002 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:14:59,002 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:14:59,003 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:14:59,003 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:16:47,402 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:16:47,402 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:16:47,402 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:16:47,403 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:17:02,048 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:17:02,048 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:17:02,049 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:17:02,049 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:17:20,817 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:17:20,817 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:17:20,818 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:17:20,818 [Worker-146: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:17:33,265 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:17:33,265 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:17:33,266 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:17:33,266 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:17:41,045 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:17:41,045 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:17:41,046 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:17:41,046 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:18:16,215 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:18:16,215 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:18:16,216 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:18:16,216 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:19:14,223 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:19:14,223 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:19:14,224 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:19:14,224 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:19:52,243 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:19:52,243 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:19:52,244 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:19:52,244 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:22:12,082 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:22:12,082 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:22:12,083 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:22:12,083 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:29:44,766 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:29:44,766 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:29:44,767 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:29:44,767 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
+2022-10-05 16:29:47,892 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:29:47,892 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\main\resources
+2022-10-05 16:29:47,893 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-05 16:29:47,893 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\joker\Documents\WorkspaceWT\com.maquinaExpendedora\src\test\resources
