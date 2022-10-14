@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.curso.modulo4.Producto"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="java.io.Serializable"/>
-    <fullyQualifiedTypeName name="com.curso.modulo4.Pedido"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="com.maquinaExpendedora.domain.MaquinaExpendedora"/>
-    <fullyQualifiedTypeName name="javax.swing.event.ListDataEvent"/>
-    <fullyQualifiedTypeName name="com.maquinaExpendedora.domain.Refresco"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="com.maquinaExpendedora.domain.pruebaMaquinaExpendedora"/>
-    <fullyQualifiedTypeName name="com.curso.juego.TresEnRaya"/>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
-    <fullyQualifiedTypeName name="org.junit.Test"/>
-    <fullyQualifiedTypeName name="com.curso.varios.EjemploVariablesReferenciaHeap"/>
-    <fullyQualifiedTypeName name="com.curso.modulo7.EjemplosStatic"/>
-    <fullyQualifiedTypeName name="java.sql.Connection"/>
-    <fullyQualifiedTypeName name="com.curso.modulo7.Counter"/>
-    <fullyQualifiedTypeName name="com.curso.modulo7.Cliente"/>
-    <fullyQualifiedTypeName name="com.curso.modulo7.enumeracion.Carta"/>
-    <fullyQualifiedTypeName name="com.curso.modulo7.enumeracion.ModelosCoche"/>
-    <fullyQualifiedTypeName name="com.curso.modulo6.Gato"/>
-    <fullyQualifiedTypeName name="com.curso.modulo6.Perro"/>
-    <fullyQualifiedTypeName name="com.curso.modulo6.Granja"/>
     <fullyQualifiedTypeName name="com.curso.modulo6.Animal"/>
     <fullyQualifiedTypeName name="com.curso.modulo6.Gato.Vaca"/>
     <fullyQualifiedTypeName name="com.curso.modulo6.PerroCaza"/>
@@ -48,7 +24,6 @@
     <fullyQualifiedTypeName name="com.flota.dominio.Reservable"/>
     <fullyQualifiedTypeName name="com.flota.dominio.Animal"/>
     <fullyQualifiedTypeName name="com.flota.dominio.Pet"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
@@ -60,4 +35,29 @@
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="com.miBanco.domain.OverDraftException"/>
+    <fullyQualifiedTypeName name="com.curso.modulo8.Punto"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="com.curso.modulo8.ComparadorStringOrdenInverso"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.HashAttributeSet"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="com.curso.collections.ComparadorStringOrdenInverso"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.metal.MetalIconFactory.TreeFolderIcon"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.curso.merdado.persistencia.GenericDAO"/>
+    <fullyQualifiedTypeName name="com.curso.mercado.entidades.Producto"/>
 </qualifiedTypeNameHistroy>
