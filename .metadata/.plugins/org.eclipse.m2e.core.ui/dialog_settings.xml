@@ -25,19 +25,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.miBanco"/>
-			<item value="com.flota"/>
-			<item value="com.curso.varios"/>
+			<item value="Proyecto003.tresEnRaya"/>
 		</list>
 		<list key="groupId">
-			<item value="com.miBanco"/>
-			<item value="com.flota"/>
-			<item value="com.curso"/>
+			<item value="com.curso.juego"/>
 		</list>
 		<list key="artifactId">
-			<item value="com.miBanco"/>
-			<item value="proyecto002_Flota"/>
-			<item value="Proyecto001_JavaSE"/>
+			<item value="com.curso.tresEnRaya"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -68,6 +62,18 @@
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
 		</list>
 	</section>
 </section>

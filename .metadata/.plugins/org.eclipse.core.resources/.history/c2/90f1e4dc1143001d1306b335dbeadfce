@@ -1,7 +1,0 @@
-package com.flota.dominio;
-
-public class Vehiculo {
-
-	public double cargaMaxima;
-	
-}

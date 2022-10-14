@@ -1,16 +1,19 @@
 package com.miBanco.domain;
 
-
-
 public class Cliente {
 	private String nombre;
 	private String apellido;
-	private Cuenta cuenta;
+	private Cuenta[] cuentas;
+	private int numeroDeCuentas;
+
+	
 
 	public Cliente(String nombre, String apellido) {
-
+		super();
 		this.nombre = nombre;
 		this.apellido = apellido;
+		cuentas = new Cuenta[10];
+		numeroDeCuentas=0;
 	}
 
 	public String getNombre() {
@@ -21,12 +24,16 @@ public class Cliente {
 		return apellido;
 	}
 
-	public Cuenta getCuenta() {
-		return cuenta;
+	public int getNumeroDeCuentas() {
+		return numeroDeCuentas;
 	}
 
-	public void setCuenta(Cuenta cuenta) {
-		this.cuenta = cuenta;
+	public void addCuenta(Cuenta cuenta) {
+		int i = numeroDeCuentas++;
+		cuentas[i] = cuenta;
 	}
 
+	public Cuenta getCuenta(int index) {
+		return cuentas[index];
+	}
 }
